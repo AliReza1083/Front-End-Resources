@@ -9,7 +9,7 @@ body:
       description: A brief description of the question or issue
     validations:
       required: true
-  - type: url
+  - type: textarea
     id: links
     attributes:
       label: Links
